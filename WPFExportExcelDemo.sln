@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFExportExcelDemo", "WPFExportExcelDemo.csproj", "{012C9B7B-3F6E-4C82-9655-F7154BF39C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{012C9B7B-3F6E-4C82-9655-F7154BF39C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012C9B7B-3F6E-4C82-9655-F7154BF39C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012C9B7B-3F6E-4C82-9655-F7154BF39C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012C9B7B-3F6E-4C82-9655-F7154BF39C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A277C0E-FD73-4D8B-A390-499EA40E1A4E}
+	EndGlobalSection
+EndGlobal
